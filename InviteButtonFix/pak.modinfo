@@ -1,0 +1,11 @@
+{
+  "name" : "InviteButtonFix",
+  "metadata": {
+    "author" : "Kharidiron",
+    "version" : "1.0",
+    "date" : "29 January 2014",
+    "displayName" : "Team Invite Button Fix",
+    "description" : "Swap the order of the buttons in the team invite accept interface.",
+    "contact" : [ "kharidiron [at] gmail [dot] com"]
+  }
+}

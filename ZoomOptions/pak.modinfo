@@ -1,0 +1,11 @@
+{
+  "name" : "ZoomOptions",
+  "metadata": {
+    "author" : "Kharidiron",
+    "version" : "2.0",
+    "date" : "29 January 2014",
+    "displayName" : "More Zoom Options",
+    "description" : "Give the user more zoom options in-game.",
+    "contact" : [ "kharidiron [at] gmail [dot] com"]
+  }
+}

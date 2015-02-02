@@ -1,0 +1,7 @@
+[{"op":"replace","path":"/config/lineHeight","value":9},
+ {"op":"replace","path":"/config/visTime","value":10},
+ {"op":"replace","path":"/config/chatSize","value":12},
+ {"op":"replace","path":"/config/chatHistoryLimit","value":256},
+ {"op":"replace","path":"/gui/panefeature/anchor","value":"BottomRight"},
+ {"op":"replace","path":"/gui/background/fileBody","value":"/interface/chat/bigchatpane.png"},
+ {"op":"replace","path":"/gui/upButton/position/1","value":121}]

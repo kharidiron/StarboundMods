@@ -1,0 +1,11 @@
+{
+  "name" : "CompactParty",
+  "metadata": {
+    "author" : "Kharidiron",
+    "version" : "2.0",
+    "date" : "29 January 2014",
+    "displayName" : "More Zoom Options",
+    "description" : "Make the Party UI more compact.",
+    "contact" : [ "kharidiron [at] gmail [dot] com"]
+  }
+}

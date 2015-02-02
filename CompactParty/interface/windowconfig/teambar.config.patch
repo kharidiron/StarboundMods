@@ -1,0 +1,3 @@
+[{"op":"replace","path":"/portraitScale","value":1.3},
+ {"op":"replace","path":"/paneLayout/list/position/1","value":-78},
+ {"op":"replace","path":"/offset/1","value":-35}]

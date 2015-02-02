@@ -1,0 +1,11 @@
+{
+  "name" : "RightSideChat",
+  "metadata": {
+    "author" : "Kharidiron",
+    "version" : "2.0",
+    "date" : "31 January 2014",
+    "displayName" : "Right-side Chat",
+    "description" : "Puts the chat interface on the right side of the screen, and makes it bigger.",
+    "contact" : [ "kharidiron [at] gmail [dot] com"]
+  }
+}
